@@ -27,8 +27,8 @@
 
 #  软件部分界面截图
 
-<img src="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_1.jpg" alt="软件主页" style="zoom: 25%;float:left;" />
+[软件主页](https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_1.jpg)
 
-<img src="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_2.jpg-scaled.jpg" alt="添加请假页面" style="zoom: 35%;float:left;" />
+[添加请假页面](https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_2.jpg-scaled.jpg)
 
-<img src="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_3.jpg.jpg" alt="签到信息设置" style="zoom:25%;float:left;" />
+[签到信息设置](https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_3.jpg.jpg)

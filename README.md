@@ -1,6 +1,6 @@
 #  使用须知
 
-本软件使用[Uni-App](https://uniapp.dcloud.io/)编写，需要使用到DCloud公司的[HBuilderX](https://www.dcloud.io/hbuilderx.html)进行开发，软件源代码可以在Github上免费下载并自行设计更改使用。
+本软件使用<a href="https://uniapp.dcloud.io/" target="_blank">Uni-App</a>编写，需要使用到DCloud公司的<a href="https://www.dcloud.io/hbuilderx.html" target="_blank">HBuilderX</a>进行开发，软件源代码可以在Github上免费下载并自行设计更改使用。
 **软件仅供学习研究使用，请勿用于任何商业非法用途，否则造成任何后果作者概不负责**
 **软件仅供学习研究使用，请勿用于任何商业非法用途，否则造成任何后果作者概不负责**
 **软件仅供学习研究使用，请勿用于任何商业非法用途，否则造成任何后果作者概不负责**
@@ -9,7 +9,7 @@
 
 #  各平台使用
 
-由于Uni-App的特性，[一套代码可以编译到10个平台](https://uniapp.dcloud.io/README?id=%e5%bf%ab%e9%80%9f%e4%bd%93%e9%aa%8c)，支持安卓/IOS。
+由于Uni-App的特性，<a href="https://uniapp.dcloud.io/README?id=%e5%bf%ab%e9%80%9f%e4%bd%93%e9%aa%8c" target="_blank">一套代码可以编译到10个平台</a>，支持安卓/IOS。
 
 
 
@@ -27,8 +27,8 @@
 
 #  软件部分界面截图
 
-[软件主页](https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_1.jpg)
+<a href="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_1.jpg" target="_blank">软件主页</a>
 
-[添加请假页面](https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_2.jpg-scaled.jpg)
+<a href="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_2.jpg-scaled.jpg" target="_blank">添加请假页面</a>
 
-[签到信息设置](https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_3.jpg.jpg)
+<a href="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_3.jpg.jpg" target="_blank">签到信息设置</a>

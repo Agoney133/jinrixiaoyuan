@@ -32,3 +32,7 @@
 <a href="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_2.jpg-scaled.jpg" target="_blank">添加请假页面</a>
 
 <a href="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_3.jpg.jpg" target="_blank">签到信息设置</a>
+
+<a href="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_4.jpg" target="_blank">正在休假中</a>
+
+<a href="https://lpddr5.cn/wp-content/uploads/2020/11/jinrixiaoyuan_5.jpg" target="_blank">已完成</a>
